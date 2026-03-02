@@ -1,0 +1,1 @@
+This project demonstrates basic Git and Python usage.
